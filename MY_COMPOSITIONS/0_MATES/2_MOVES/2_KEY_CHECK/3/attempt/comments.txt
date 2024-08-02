@@ -1,0 +1,14 @@
+
+
+There should be a way to make the line:
+
+    1. Qe5+
+
+the only possible winning move.
+
+At this point its also possible to make:
+
+    1. Bc4+
+    1. Bg4+
+
+even making the rook of a4 unnecesary.

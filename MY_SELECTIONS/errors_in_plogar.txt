@@ -1,0 +1,9 @@
+
+Problem  |  Error_description
+1555     |  Repeaed_from_1544
+
+
+
+Problem  |  Proposed_key
+1529     |  Kb7?
+1940     |  Nc6?
